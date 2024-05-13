@@ -1,2 +1,4 @@
 the test file did not got saved in the first attempt hence it was showing blank in the git hub SERVER
 Adding a second line in this file changing the server case
+
+Making changes in the file to view it before adding the code (means git add .) command 
